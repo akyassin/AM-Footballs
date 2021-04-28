@@ -1,0 +1,116 @@
+#contact {
+  margin-top: 4%;
+}
+
+#map h5 {
+  text-align: left;
+  color: rgb(48, 0, 53);
+}
+
+.form-div h5 {
+  color: rgb(48, 0, 53);
+}
+
+#contact .form-control {
+  border-radius: 0;
+  border: 2px solid rgb(48, 0, 53);
+}
+
+#contact button {
+  width: 75px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 0;
+  border: 2px solid rgb(48, 0, 53);
+  background-color: white;
+  color: black;
+}
+
+#contact button:hover {
+  border-radius: 0;
+  border: 2px solid grey;
+  background-color: grey;
+  color: white;
+  transition: 1s ease;
+}
+
+#contact .row {
+  margin-bottom: 30px;
+}
+
+#contact .well {
+  margin-top: 10px !important;
+  border-radius: 0;
+  text-align: left;
+}
+
+#contact .well p {
+  font-size: 15px;
+  color: rgb(48, 0, 53);
+}
+
+#contact .well h5 {
+  color: rgb(48, 0, 53);
+}
+
+@media (max-width: 768px) {
+  #contact iframe {
+    margin-bottom: 15px;
+  }
+}
+
+.form-div h5 {
+  text-align: left;
+}
+
+.icons {
+  display: block;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px !important;
+  width: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-instagram {
+  background: rgb(255, 92, 81);
+  color: white;
+}
+
+.fa-linkedin {
+  background: rgb(69, 143, 255);
+  color: white;
+}
+
+#submit-success {
+  margin-top: 10px;
+  position: absolute;
+  text-align: center;
+  width: 95%;
+}
+
+#submit-message {
+  position: absolute;
+  width: 100%;
+}

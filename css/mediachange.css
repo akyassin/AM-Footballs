@@ -1,0 +1,135 @@
+@media screen and (min-width: 971px){
+    #navbarDropdown {
+        display: none;
+    }
+    #navbarDropdownPL{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .logoimg {
+        display: none;
+    }
+    .team-logo {
+        display: none;
+    }
+    .top img {
+        width: 20px;
+        height: 20px;
+    }
+    #Spain p {
+        font-size: xx-small;
+    }
+    #England p {
+        font-size: xx-small;
+    }
+    .thead-dark th td {
+        font-size: small;
+    }
+    .nav-link {
+        font-size: small;
+    }
+    #navbarDropdownPL{
+        float: left;
+        font-size: small;
+    }
+    #Spain .align-top {
+        width: 60px;
+        height: 60px;
+    }
+    #England .align-top {
+        width: 40px;
+        height: 40px;
+    }
+    #Spain {
+        height: 110vh;
+    }
+    #England {
+        height: 110vh;
+    }
+    #Contact {
+        height: 110vh;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+    .thead-dark {
+        font-size: xx-small;
+    }
+    p {
+        display: none;
+    }
+    .switch {
+        display: none;
+    }
+    .table {
+        font-size: xx-small;
+    }
+    #logoimg {
+        font-weight: lighter;
+        font-size: xx-small;
+    }
+    .nav-link {
+        font-size: xx-small;
+    }
+    #navbarDropdownPL {
+        font-size: xx-small;
+    }
+    .team-logo {
+        display: none;
+    }
+    .top img {
+        width: 20px;
+        height: 20px;
+    }
+    .football-image {
+        display: none;
+    }
+    #Spain {
+        margin-left: 0px;
+    }
+    #england-division .thead-dark{
+        margin-left: 1px;
+        margin-top: 1px;
+        margin-right: 1px;
+        margin-bottom: 1px;
+    }
+    #Spain {
+        height: 120vh;
+    }
+    #England {
+        height: 120vh;
+    }
+    #Contact {
+        height: 120vh;
+    }
+    .spain-details {
+        margin-left: -38px;
+    }
+    .england-details {
+        margin-left: -40px;
+    }
+    .well-sm {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .spain-details {
+        margin-left: -10px;
+    }
+    .england-details {
+        margin-left: -10px;
+    }
+    th {
+        font-size: 7px;
+    }
+    .well-sm {
+        display: none;
+    }
+    #Contact {
+        height: 120vh;
+    }
+}

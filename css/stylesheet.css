@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.my-brand img {
+    height: 60px;
+    width: auto;
+}
+
+.section-light {
+    height: 110vh;
+    width: 100%;
+    background-position: center;
+    background-color: rgb(249, 241, 167);
+    position: relative;
+    text-align: center !important;
+}
+
+.section-dark {
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-color: rgb(218, 213, 165);
+    position: relative;
+    text-align: center !important;
+}
+
+.top {
+    float: right;
+}
+
+.top img {
+    width: 35px;
+    height: 35px;
+    margin: 15px;
+    float: right;
+}
+
+.spain-details {
+    width: 90%;
+    height: 90vh;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.england-details {
+    width: 90%;
+    height: 90vh;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+#title-spain {
+    padding-top: 15px;
+    margin-right: 10px;
+    color: rgb(48, 0, 53);
+    font-size: 1.2vw;
+}
+
+#title-england {
+    padding-top: 15px;
+    margin-right: 10px;
+    font-size: 18px;
+    color: rgb(48, 0, 53);
+}
+
+.active {
+    color: transparent;
+}

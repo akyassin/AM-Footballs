@@ -1,0 +1,64 @@
+.navbar-collapse {
+    background-color: #f8f9fa!important;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-item img {
+    width: 100vh;
+    height: 100vh;
+}
+
+.navbar {
+    height: 65px !important;
+    border-bottom: solid 3px rgb(48, 0, 53);
+}
+
+.my-search {
+    margin-left: 20px;
+}
+
+.main-navbar {
+    position: absolute !important;
+    z-index: 9999;
+    width: 100%;
+    top: 0;
+    height: 65px !important;
+    background: transparent;
+    height: 75px !important;
+}
+
+#nav-link-id {
+    color: rgb(48, 0, 53) !important;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-content: center;
+}
+
+#nav-link-id:hover {
+    transition: 0.5s ease;
+    color: azure !important;
+    border: solid rgb(48, 0, 53) 1px transparent;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: rgb(48, 0, 53);
+    text-decoration: none;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand h4 {
+    color: rgb(48, 0, 53);
+}
