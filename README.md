@@ -6,7 +6,7 @@
 
 
 
-![](./Images/readme/SL.png)
+![](./Images/Readme/SL.png)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-![](./Images/readme/SS.png)
+![](./Images/Readme/SS.png)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-![](./Images/readme/SLT.png)
+![](./Images/Readme/SLT.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![](./Images/readme/SLTS.png)
+![](./Images/Readme/SLTS.png)
 
 
 
@@ -38,5 +38,5 @@
 
 
 
-![](./Images/readme/CP.png)
+![](./Images/Readme/CP.png)
 
